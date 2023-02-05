@@ -2,7 +2,7 @@ import requests
 import sys 
 
 
-sub = open ('subfile.txt').read()
+sub = open ('subfile_new.txt').read()
 subs =  sub.splitlines()
 for s in subs :
     url = "https://{}.{}".format(s,sys.argv[1])
