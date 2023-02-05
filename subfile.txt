@@ -1,0 +1,6 @@
+admin
+internal.dev
+shopify 
+secret 
+backup01
+github 
